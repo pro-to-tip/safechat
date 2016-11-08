@@ -17,7 +17,7 @@ html {
 body, html {
 	min-height: 100%;
 	min-width: 600px;
-	background-color: azure;
+	background-color: transparent;
 	overflow: hidden;
 	padding: 0px;
 	margin:0px;
