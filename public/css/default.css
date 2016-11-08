@@ -92,8 +92,10 @@ body, html {
 	padding: 5px 5px 5px 15px;
 
 	color: #FFFFFF;
-	background-color:#141414;
+	background-color:transparent;
 	height:30px;
+	    border: 1.5px solid #e9eaf3;
+    border-radius: 20px;
 }
 
 #input { z-index: 1; }
