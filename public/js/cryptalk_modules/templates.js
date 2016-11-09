@@ -91,7 +91,7 @@ define({
 		unable_to_decrypt: 		'Unabled to decrypt received message, keys does not match.',
 
 		socket_error: 			'A network error has occurred. A restart may be required to bring back full functionality.<br>Examine the logs for more details.',
-		connecting: 			'Connecting to host {host}...',
+		connecting: 			'Маршрутизация {host}...',
 		connected: 				'безопасное соединение установлено',
 		disconnected: 			'соединени разорвано {host}.',
 		already_connected:		'You have to disconnect from {host} before joining another.',
@@ -102,9 +102,9 @@ define({
 	},
 
 	server: {
-		person_joined: 			'A person joined this room.',
-		person_left: 			'A person left this room.',
-		person_count: 			'There is {payload} person(s) in this room, including you.',
+		person_joined: 			'Пользователь присоединился.',
+		person_left: 			'Пользователь отсоединился.',
+		person_count: 			'В комнате {payload} пользователей , включая вас.',
 		command_failed: 		'Server command failed, you\'re probably trying to du something bogus.',
 		bogus: 					'Received a bogus message from server.'
 	},
