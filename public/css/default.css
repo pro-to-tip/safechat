@@ -116,9 +116,9 @@ pre {
     color: #333;
     word-break: break-all;
     word-wrap: break-word;
-    background-color: #e9eaf3;
-    border: 1px solid #ccc;
-    border-radius: 4px;
+    background: linear-gradient(to right, #edeef5 25%, transparent 50%);
+    border: 0px solid #ccc;
+    border-radius: 20px;
     overflow:hidden;
 }
 
