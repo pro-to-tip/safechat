@@ -120,6 +120,7 @@ pre {
     border: 1px solid #ccc;
     border-radius: 4px;
     width:71%;
+    overflow:hidden;
 }
 
 
