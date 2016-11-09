@@ -72,11 +72,11 @@ body, html {
 \*------------------------------------*/
 #input_wrapper {
 	right:0;
-	bottom:0;
+	bottom:20px;
 	left:0;
 	position: absolute;
 
-	height:30px;
+	height:40px;
 }
 
 #input,
