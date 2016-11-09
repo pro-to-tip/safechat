@@ -92,7 +92,7 @@ define({
 
 		socket_error: 			'A network error has occurred. A restart may be required to bring back full functionality.<br>Examine the logs for more details.',
 		connecting: 			'Connecting to host {host}...',
-		connected: 				'A connection to the server has been established. Happy chatting!',
+		connected: 				'безопасное соединение установлено',
 		disconnected: 			'Disconnected from host {host}.',
 		already_connected:		'You have to disconnect from {host} before joining another.',
 		reconnect_no_host:		'There is no host to reconnect with.',
